@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![CircleCI](https://circleci.com/gh/Manhhoangvp95/docker-kubernetes-udacity-project.svg?style=svg)](https://circleci.com/gh/Manhhoangvp95/docker-kubernetes-udacity-project)
 
 ## Project Overview
 
